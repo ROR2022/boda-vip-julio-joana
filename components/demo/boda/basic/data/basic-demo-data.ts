@@ -57,7 +57,7 @@ export const basicDemoData = {
   },
 
   countdown: {
-    targetDate: "June 8, 2024 16:00:00",
+    targetDate: "January 12, 2030 12:00:00",
     backgroundImage: "/images/countdown-bg.jpg"
   },
 
